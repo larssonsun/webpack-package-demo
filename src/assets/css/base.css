@@ -1,0 +1,16 @@
+button {
+  border: solid 1px #000;
+  color: red
+}
+
+div.bg-div > div:nth-child(1) {
+  height: 100px;
+  width: 100px;
+  background: url("../imgs/1.png") no-repeat;
+}
+
+div.bg-div > div:nth-child(2) {  
+  height: 100px;
+  width: 100px;
+  background: url("../imgs/2.png") no-repeat;
+}
